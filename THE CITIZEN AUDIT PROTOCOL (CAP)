@@ -1,0 +1,30 @@
+This section of the Constitution establishes the "Citizen-as-Auditor" protocol. It ensures that the "Active Audit" is not just a theoretical right, but a functional, technical feature of the system.
+
+ARTICLE IV: THE CITIZEN AUDIT PROTOCOL (CAP)
+Section 1: The Right to Scrutiny
+Every citizen possesses the inalienable right to verify the actions of any robotic service deployed within their personal, professional, or public jurisdiction. This oversight is categorized as an "Active Audit."
+
+Section 2: The Audit Trigger Mechanism
+An "Active Audit" may be initiated by any citizen through a "Verify-and-Pause" command via the secure, standardized Public Robotics Interface (PRI).
+
+The Trigger: A citizen suspecting a violation (e.g., unauthorized data collection, behavioral deviation, or safety protocol breach) inputs a digital request through their local interface.
+
+The Immediate Effect (The 'Systemic Pause'): Upon submission of the audit request, the affected robotic unit is legally and technically required to enter a "Safe-State Hold." It must cease all operations, lock all data-transmission channels, and move to a neutral, stationary position until the audit is resolved.
+
+The Immutable Log Retrieval: The system automatically pushes the last 60 minutes of the robot’s "Action Log" (a cryptographically hashed, non-private behavioral log) to the citizen’s interface for immediate review.
+
+Section 3: The Trustee’s Obligation
+Upon the triggering of an audit, the responsible Trustee or their designated Deputy must:
+
+Public Acknowledgment: Formally log the audit request on the National Immutable Ledger, marking it as "Active Audit Under Review."
+
+Justification: Provide a machine-verifiable explanation of the robot’s behavior citing the specific, authorized operational protocol being executed at the time of the event.
+
+Section 4: Resolution & Accountability
+
+Case A (Protocol Compliance): If the robot’s actions are verified as consistent with the public mandate and safety protocols, the robot resumes service. The citizen is notified of the finding.
+
+Case B (Protocol Breach): If the audit confirms that the robot deviated from its operational protocol or violated privacy standards (e.g., unauthorized data capture), the Trustee responsible for that unit is automatically placed under investigation. The robotic unit is recalled for a complete forensic reset.
+
+Section 5: Protection for the Auditor
+No citizen shall be penalized, fined, or inhibited from accessing robotic services for initiating an "Active Audit," provided the request was made in good faith through the official protocol. The right to audit is the primary mechanism of our national technological hygiene.
